@@ -47,7 +47,6 @@ python stock_anomaly_detection.py
 When prompted, enter the stock symbols you want to analyze, separated by commas. For example:
 
 Enter trending stock symbols separated by commas (e.g., TCS.NS,NVDA,TSLA): TCS.NS,NVDA,TSLA
-View Results:
 
 The script will:
 
