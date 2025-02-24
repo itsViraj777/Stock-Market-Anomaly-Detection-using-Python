@@ -13,6 +13,14 @@ Data Fetching: Fetches historical stock data using the yfinance library.
 
 - User Input: Allows users to input multiple stock symbols for analysis.
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/e9b2d5ad-71fc-4677-836c-040d77a953dd)
+The image depicts a plot of NVDA stock price returns over time, with red dots indicating detected anomalies. The x-axis shows the time period from March 2024 to March 2025, while the y-axis represents the daily returns, ranging from -0.15 to 0.10.
+![image](https://github.com/user-attachments/assets/5a563450-b0af-43fb-9f4e-f4f76d0768c3)
+The image depicts a plot of TCS.NS stock price returns over time, with red dots indicating detected anomalies. The x-axis shows the time period from March 2024 to March 2025, while the y-axis represents the daily returns, ranging from -0.04 to 0.06.
+
+
+
 # Requirements
 To run this project, you need the following Python libraries:
 
